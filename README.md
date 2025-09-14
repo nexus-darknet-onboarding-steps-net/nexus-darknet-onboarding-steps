@@ -4,9 +4,9 @@ Are you searching for a secure and reliable darknet marketplace? Learning the **
 
 ---
 
-[<img src="/res/search.webp" width="200">](http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion)
+[<img src="/res/search.webp" width="200">](http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion)
 
-<a href="http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src="/res/close.webp" alt="image" style="max-width: 100%;"></a>
+<a href="http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion"><img src="/res/close.webp" alt="image" style="max-width: 100%;"></a>
 
 
 ## What is Nexus Darknet?
@@ -39,7 +39,7 @@ Are you searching for a secure and reliable darknet marketplace? Learning the **
 ### 4. Access the Official Nexus Darknet Market
 
 - Download the latest **Tor Browser**.
-- Enter the official Nexus darknet link: **http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion**.
+- Enter the official Nexus darknet link: **http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion**.
 - Register a new account using a unique username and secure password.
 
 ### 5. Set Up Security Features
@@ -69,11 +69,13 @@ Are you searching for a secure and reliable darknet marketplace? Learning the **
 
 ## Why Follow These Nexus Darknet Onboarding Steps?
 
-Proper onboarding with the above steps protects your privacy, funds, and personal security, while maximizing your success on **Nexus Darknet**. Make sure to always use the updated official link (http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion) and stay vigilant for phishing sites.
+Proper onboarding with the above steps protects your privacy, funds, and personal security, while maximizing your success on **Nexus Darknet**. Make sure to always use the updated official link (http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion) and stay vigilant for phishing sites.
 
-<a href="http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src="/res/layer.webp" style="max-width: 100%;"></a>
-<a href="http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src="/res/log.webp" style="max-width: 100%;"></a>
+<a href="http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion"><img src="/res/layer.webp" style="max-width: 100%;"></a>
+<a href="http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion"><img src="/res/log.webp" style="max-width: 100%;"></a>
 
 ---
 
 *Disclaimer: This guide is for informational purposes only. Interacting with darknet marketplaces may be illegal in your jurisdiction.*
+
+Update:  14.09.2025 url is now functioning and clickable
