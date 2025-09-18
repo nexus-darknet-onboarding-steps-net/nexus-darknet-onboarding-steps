@@ -78,4 +78,6 @@ Proper onboarding with the above steps protects your privacy, funds, and persona
 
 *Disclaimer: This guide is for informational purposes only. Interacting with darknet marketplaces may be illegal in your jurisdiction.*
 
-Update:  14.09.2025 url is now functioning and clickable
+
+
+Update:  18.09.2025 link is functioning
